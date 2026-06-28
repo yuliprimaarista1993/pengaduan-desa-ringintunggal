@@ -1,0 +1,6 @@
+{
+  "name": "Lapor Ringintunggal",
+  "description": "Portal Pengaduan Resmi Warga Desa Ringintunggal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
